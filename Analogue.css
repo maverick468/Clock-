@@ -1,11 +1,7 @@
 body{
   font-family: Times New Roman;
   background: rgba(0,0,0,0.731);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  flex: 1;
+  
 }
 
 .clock-dial{
@@ -13,6 +9,7 @@ body{
   height: 500px;
   border: 2px solid #592626c0;
   border-radius: 50%;
+  Margin: 5% 5% 5% 5%;
   position: relative;
   background: url(motor.jpg);
   
